@@ -1,0 +1,309 @@
+2025-01-18 16:04:43,336 - token_token - INFO - Token request: username='parsa' password='12'
+2025-01-18 16:04:43,338 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:11:45,888 - token_token - INFO - Token request: username='parsa' password='12'
+2025-01-20 16:11:45,888 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:11:57,149 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:11:57,149 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:11:57,150 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:11:57,150 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:12:31,070 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:12:31,070 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:13:06,893 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:13:06,893 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:14:01,873 - token_token - INFO - Token request: username='parsa' password='123'
+2025-01-20 16:14:01,873 - token_token - INFO - Token request: username='parsa' password='123'
+2025-01-20 16:14:01,873 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:14:01,873 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:15:33,649 - token_token - INFO - Token request: username='parsa' password='123'
+2025-01-20 16:15:33,649 - token_token - INFO - Token request: username='parsa' password='123'
+2025-01-20 16:15:33,649 - token_token - INFO - Token request: username='parsa' password='123'
+2025-01-20 16:15:33,649 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:15:33,649 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:15:33,649 - token_token - ERROR - Error while generating access token: 'NoneType' object has no attribute 'fetch_all'
+2025-01-20 16:16:27,049 - token_token - INFO - Token request: username='parsa' password='123'
+2025-01-20 16:16:27,050 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:16:29,852 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:16:29,852 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:16:29,852 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:16:29,852 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:17:42,332 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:17:42,334 - token_token - ERROR - Error while generating access token: username
+2025-01-20 16:17:45,076 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:17:45,076 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:17:45,077 - token_token - ERROR - Error while generating access token: username
+2025-01-20 16:17:45,077 - token_token - ERROR - Error while generating access token: username
+2025-01-20 16:18:29,250 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:18:29,251 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:19:28,692 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:19:28,692 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:19:28,693 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:19:28,693 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:25,622 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:25,622 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:25,622 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:25,623 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:25,623 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:25,623 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:34,112 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:34,112 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:34,112 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:34,112 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:34,114 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:34,114 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:34,114 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:34,114 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:20:45,279 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:20:45,281 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:21:15,953 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:21:15,955 - token_token - INFO - Generated access token: matin
+2025-01-20 16:21:46,571 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:21:46,573 - token_token - INFO - Generated access token: matin
+2025-01-20 16:22:39,098 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:22:39,099 - token_token - INFO - Generated access token: matin
+2025-01-20 16:23:35,018 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:23:35,020 - token_token - INFO - Generated access token: matin
+2025-01-20 16:24:09,359 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:24:09,360 - token_token - INFO - Generated access token: matin
+2025-01-20 16:24:26,497 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:24:26,498 - token_token - INFO - Generated access token: matin
+2025-01-20 16:24:57,705 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:24:57,706 - token_token - INFO - Generated access token: matin
+2025-01-20 16:25:11,207 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:25:11,210 - token_token - INFO - Generated access token: matin
+2025-01-20 16:27:32,248 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:27:32,251 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:28:15,195 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:28:15,196 - token_token - ERROR - Error while generating access token: 'NoneType' object is not iterable
+2025-01-20 16:28:36,538 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:28:36,539 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:29:30,450 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:29:30,451 - token_token - INFO - Generated access token: matin
+2025-01-20 16:29:41,772 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:29:41,772 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:29:41,773 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:29:41,773 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:29:49,789 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:29:49,789 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:29:49,789 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:29:49,790 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:29:49,790 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:29:49,790 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:30:01,558 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:30:01,558 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:30:01,558 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:30:01,558 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:30:01,560 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:30:01,560 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:30:01,560 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:30:01,560 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:32:29,944 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:32:29,945 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:33:46,643 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:33:46,643 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:34:18,052 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:34:18,053 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:34:59,444 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:34:59,446 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:05,678 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:05,678 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:05,679 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:05,679 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:31,204 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:31,206 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:32,108 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:32,108 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:32,109 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:32,109 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:32,790 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:32,790 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:32,790 - token_token - INFO - Token request: username='ali' password='111'
+2025-01-20 16:35:32,791 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:32,791 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:32,791 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:38,247 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:35:38,247 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:35:38,247 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:35:38,247 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:35:38,249 - token_token - INFO - Generated access token: matin
+2025-01-20 16:35:38,249 - token_token - INFO - Generated access token: matin
+2025-01-20 16:35:38,249 - token_token - INFO - Generated access token: matin
+2025-01-20 16:35:38,249 - token_token - INFO - Generated access token: matin
+2025-01-20 16:35:41,650 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:35:41,650 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:35:41,650 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:35:41,650 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:35:41,650 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:35:41,651 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:41,651 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:41,651 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:41,651 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:35:41,651 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:37:13,120 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:37:13,121 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:37:28,531 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:37:28,531 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:37:28,532 - token_token - ERROR - Error while generating access token: 'list' object has no attribute 'password'
+2025-01-20 16:37:28,532 - token_token - ERROR - Error while generating access token: 'list' object has no attribute 'password'
+2025-01-20 16:39:15,539 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:39:15,541 - token_token - INFO - Generated access token: matin
+2025-01-20 16:39:24,094 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:39:24,094 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:39:24,095 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:39:24,095 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:41:41,558 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:41:41,559 - token_token - ERROR - Error while generating access token: list index out of range
+2025-01-20 16:42:09,507 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:42:09,508 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:43:52,927 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:43:52,928 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:44:35,173 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:44:35,174 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:48:18,030 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:48:18,031 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:54:31,557 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:54:31,558 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:54:47,536 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:54:47,536 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:54:47,536 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:54:47,536 - token_token - ERROR - Error while generating access token: 401: Incorrect username or password
+2025-01-20 16:57:28,601 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:58:57,219 - token_token - INFO - Token request: username='parsa' password='111'
+2025-01-20 16:58:57,220 - token_token - ERROR - invalid username or password: parsa, 111
+2025-01-20 16:59:09,173 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:59:09,173 - token_token - INFO - Token request: username='parsa' password='132'
+2025-01-20 16:59:09,174 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:59:09,174 - token_token - INFO - Generated access token: parsa
+2025-01-20 16:59:12,827 - token_token - INFO - Token request: username='parsa' password='1111'
+2025-01-20 16:59:12,827 - token_token - INFO - Token request: username='parsa' password='1111'
+2025-01-20 16:59:12,827 - token_token - INFO - Token request: username='parsa' password='1111'
+2025-01-20 16:59:12,828 - token_token - ERROR - invalid username or password: parsa, 1111
+2025-01-20 16:59:12,828 - token_token - ERROR - invalid username or password: parsa, 1111
+2025-01-20 16:59:12,828 - token_token - ERROR - invalid username or password: parsa, 1111
+2025-01-20 16:59:16,234 - token_token - INFO - Token request: username='matin' password='1111'
+2025-01-20 16:59:16,234 - token_token - INFO - Token request: username='matin' password='1111'
+2025-01-20 16:59:16,234 - token_token - INFO - Token request: username='matin' password='1111'
+2025-01-20 16:59:16,234 - token_token - INFO - Token request: username='matin' password='1111'
+2025-01-20 16:59:16,236 - token_token - ERROR - invalid username or password: matin, 1111
+2025-01-20 16:59:16,236 - token_token - ERROR - invalid username or password: matin, 1111
+2025-01-20 16:59:16,236 - token_token - ERROR - invalid username or password: matin, 1111
+2025-01-20 16:59:16,236 - token_token - ERROR - invalid username or password: matin, 1111
+2025-01-20 16:59:18,899 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:59:18,899 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:59:18,899 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:59:18,899 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:59:18,899 - token_token - INFO - Token request: username='matin' password='111'
+2025-01-20 16:59:18,901 - token_token - INFO - Generated access token: matin
+2025-01-20 16:59:18,901 - token_token - INFO - Generated access token: matin
+2025-01-20 16:59:18,901 - token_token - INFO - Generated access token: matin
+2025-01-20 16:59:18,901 - token_token - INFO - Generated access token: matin
+2025-01-20 16:59:18,901 - token_token - INFO - Generated access token: matin
+2025-01-20 16:59:21,304 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:59:21,304 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:59:21,304 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:59:21,304 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:59:21,304 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:59:21,304 - token_token - INFO - Token request: username='matin' password='132'
+2025-01-20 16:59:21,306 - token_token - ERROR - invalid username or password: matin, 132
+2025-01-20 16:59:21,306 - token_token - ERROR - invalid username or password: matin, 132
+2025-01-20 16:59:21,306 - token_token - ERROR - invalid username or password: matin, 132
+2025-01-20 16:59:21,306 - token_token - ERROR - invalid username or password: matin, 132
+2025-01-20 16:59:21,306 - token_token - ERROR - invalid username or password: matin, 132
+2025-01-20 16:59:21,306 - token_token - ERROR - invalid username or password: matin, 132
+2025-01-20 16:59:32,602 - token_token - INFO - Token request: username='noth' password='132'
+2025-01-20 16:59:32,602 - token_token - INFO - Token request: username='noth' password='132'
+2025-01-20 16:59:32,602 - token_token - INFO - Token request: username='noth' password='132'
+2025-01-20 16:59:32,602 - token_token - INFO - Token request: username='noth' password='132'
+2025-01-20 16:59:32,602 - token_token - INFO - Token request: username='noth' password='132'
+2025-01-20 16:59:32,602 - token_token - INFO - Token request: username='noth' password='132'
+2025-01-20 16:59:32,602 - token_token - INFO - Token request: username='noth' password='132'
+2025-01-20 16:59:32,604 - token_token - ERROR - invalid username or password: noth, 132
+2025-01-20 16:59:32,604 - token_token - ERROR - invalid username or password: noth, 132
+2025-01-20 16:59:32,604 - token_token - ERROR - invalid username or password: noth, 132
+2025-01-20 16:59:32,604 - token_token - ERROR - invalid username or password: noth, 132
+2025-01-20 16:59:32,604 - token_token - ERROR - invalid username or password: noth, 132
+2025-01-20 16:59:32,604 - token_token - ERROR - invalid username or password: noth, 132
+2025-01-20 16:59:32,604 - token_token - ERROR - invalid username or password: noth, 132
+2025-02-15 11:46:56,980 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 11:46:56,983 - token_token - ERROR - invalid username or password: parsa, parsa123
+2025-02-15 11:49:17,595 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 11:49:17,595 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 11:49:17,596 - token_token - ERROR - invalid username or password: parsa, parsa123
+2025-02-15 11:49:17,596 - token_token - ERROR - invalid username or password: parsa, parsa123
+2025-02-15 11:53:36,700 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 11:53:36,702 - token_token - ERROR - Error while generating access token: Invalid salt
+2025-02-15 11:55:27,474 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 11:55:27,690 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$F50C2/khbmPr4yVJbTiS8e4VAfrXDdZmZrDuqI1mqL686jvdtUOCW'' at line 1")
+2025-02-15 11:59:53,190 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 11:59:53,406 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$8EhunQYXH4thUtdlsS5ew.qMeAWCvUsMoS0ryltaP4oXteNBYY2N2'' at line 1")
+2025-02-15 12:00:09,998 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:09,998 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:10,213 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$vH7VRJVOzmbWy1kMJ9NziueHV./nukbOYska5CqVI414uMlRu3DSC'' at line 1")
+2025-02-15 12:00:10,213 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$vH7VRJVOzmbWy1kMJ9NziueHV./nukbOYska5CqVI414uMlRu3DSC'' at line 1")
+2025-02-15 12:00:14,711 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:14,711 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:14,711 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:14,943 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$wVzHnNEG6fp4vW40SMGdYOmyJxI7l3y.rF71mHHGdO8kaZZW9l0qS'' at line 1")
+2025-02-15 12:00:14,943 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$wVzHnNEG6fp4vW40SMGdYOmyJxI7l3y.rF71mHHGdO8kaZZW9l0qS'' at line 1")
+2025-02-15 12:00:14,943 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$wVzHnNEG6fp4vW40SMGdYOmyJxI7l3y.rF71mHHGdO8kaZZW9l0qS'' at line 1")
+2025-02-15 12:00:31,296 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:31,296 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:31,296 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:31,296 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:00:31,516 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$dWCW6Q6lsbsWfPpHb3e2yegwesjRbYh8j9YugPCTrPrgR9xHGIeV2'' at line 1")
+2025-02-15 12:00:31,516 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$dWCW6Q6lsbsWfPpHb3e2yegwesjRbYh8j9YugPCTrPrgR9xHGIeV2'' at line 1")
+2025-02-15 12:00:31,516 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$dWCW6Q6lsbsWfPpHb3e2yegwesjRbYh8j9YugPCTrPrgR9xHGIeV2'' at line 1")
+2025-02-15 12:00:31,516 - token_token - ERROR - Error while generating access token: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', password='$2b$12$dWCW6Q6lsbsWfPpHb3e2yegwesjRbYh8j9YugPCTrPrgR9xHGIeV2'' at line 1")
+2025-02-15 12:13:09,627 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:13:09,629 - token_token - ERROR - Error while generating access token: Invalid salt
+2025-02-15 12:13:11,031 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:13:11,031 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:13:11,033 - token_token - ERROR - Error while generating access token: Invalid salt
+2025-02-15 12:13:11,033 - token_token - ERROR - Error while generating access token: Invalid salt
+2025-02-15 12:13:53,821 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:13:53,823 - token_token - ERROR - Error while generating access token: Invalid salt
+2025-02-15 12:14:49,747 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:14:49,749 - token_token - ERROR - Error while generating access token: Invalid salt
+2025-02-15 12:15:55,370 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:15:55,371 - token_token - INFO - Generated access token: parsa
+2025-02-15 12:16:32,213 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:16:32,214 - token_token - INFO - Generated access token: parsa
+2025-02-15 12:17:09,999 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:17:10,001 - token_token - ERROR - Error while generating access token: Invalid salt
+2025-02-15 12:17:27,431 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:17:27,645 - token_token - INFO - Generated access token: parsa
+2025-02-15 12:18:08,604 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:18:08,842 - token_token - INFO - Generated access token: parsa
+2025-02-15 12:22:44,780 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:22:44,996 - token_token - INFO - Generated access token: parsa
+2025-02-15 12:55:00,742 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 12:55:00,991 - token_token - INFO - Generated access token: parsa
+2025-02-15 13:26:01,456 - token_token - INFO - Token request: username='parsa' password='parsa123'
+2025-02-15 13:26:01,673 - token_token - INFO - Generated access token: parsa
+2025-02-15 13:26:08,454 - token_token - INFO - Token request: username='matin' password='parsa123'
+2025-02-15 13:26:08,454 - token_token - INFO - Token request: username='matin' password='parsa123'
+2025-02-15 13:26:08,669 - token_token - ERROR - invalid username or password: matin, parsa123
+2025-02-15 13:26:08,669 - token_token - ERROR - invalid username or password: matin, parsa123
+2025-02-15 13:26:13,620 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:26:13,620 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:26:13,620 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:26:13,834 - token_token - INFO - Generated access token: matin
+2025-02-15 13:26:13,834 - token_token - INFO - Generated access token: matin
+2025-02-15 13:26:13,834 - token_token - INFO - Generated access token: matin
+2025-02-15 13:27:26,784 - token_token - INFO - Token request: username='zahra' password='zahra123'
+2025-02-15 13:27:26,998 - token_token - INFO - Generated access token: zahra
+2025-02-15 13:32:07,963 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:32:08,180 - token_token - INFO - Generated access token: matin
+2025-02-15 13:37:52,790 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:37:53,010 - token_token - INFO - Generated access token: matin
+2025-02-15 13:58:46,260 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:58:46,508 - token_token - INFO - Generated access token: matin
+2025-02-15 13:59:12,925 - token_token - INFO - Token request: username='zahra' password='zahra123'
+2025-02-15 13:59:12,925 - token_token - INFO - Token request: username='zahra' password='zahra123'
+2025-02-15 13:59:13,157 - token_token - INFO - Generated access token: zahra
+2025-02-15 13:59:13,157 - token_token - INFO - Generated access token: zahra
+2025-02-15 13:59:56,076 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:59:56,076 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:59:56,076 - token_token - INFO - Token request: username='matin' password='matin123'
+2025-02-15 13:59:56,324 - token_token - INFO - Generated access token: matin
+2025-02-15 13:59:56,324 - token_token - INFO - Generated access token: matin
+2025-02-15 13:59:56,324 - token_token - INFO - Generated access token: matin

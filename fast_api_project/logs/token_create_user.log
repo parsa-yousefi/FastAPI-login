@@ -1,0 +1,99 @@
+2025-02-15 12:30:14,795 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 12:30:14,800 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 12:32:05,415 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 12:32:05,415 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 12:32:05,415 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 12:32:05,415 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 12:33:30,356 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 12:33:30,356 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 12:33:30,356 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 12:33:30,356 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 12:33:30,356 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 12:33:30,356 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 12:36:19,981 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 12:36:19,983 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 12:38:32,648 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:38:32,648 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:38:32,648 - token_create_user - INFO - user parsa with matin123 password created successfully
+2025-02-15 12:38:32,648 - token_create_user - INFO - user parsa with matin123 password created successfully
+2025-02-15 12:39:16,904 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:39:16,906 - token_create_user - INFO - user parsa with matin123 password created successfully
+2025-02-15 12:55:14,288 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:55:14,291 - token_create_user - INFO - user parsa with matin123 password created successfully
+2025-02-15 12:56:21,085 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:56:21,086 - token_create_user - ERROR - Exception occurred (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1")
+2025-02-15 12:57:05,776 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:57:05,777 - token_create_user - ERROR - Exception occurred (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1")
+2025-02-15 12:57:50,680 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:57:50,682 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'parsa' in 'where clause'")
+2025-02-15 12:58:42,562 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:58:42,564 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'parsa' in 'where clause'")
+2025-02-15 12:59:39,749 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:59:39,751 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'parsa' in 'where clause'")
+2025-02-15 12:59:41,970 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:59:41,970 - token_create_user - INFO - Token request: username='parsa' password='matin123' isAdmin=True
+2025-02-15 12:59:41,971 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'parsa' in 'where clause'")
+2025-02-15 12:59:41,971 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'parsa' in 'where clause'")
+2025-02-15 13:00:05,215 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:00:05,215 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:00:05,215 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:00:05,216 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'matin' in 'where clause'")
+2025-02-15 13:00:05,216 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'matin' in 'where clause'")
+2025-02-15 13:00:05,216 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'matin' in 'where clause'")
+2025-02-15 13:12:51,810 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:12:51,810 - token_create_user - ERROR - Exception occurred (1054, "Unknown column 'matin' in 'where clause'")
+2025-02-15 13:15:46,300 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:15:46,300 - token_create_user - ERROR - Exception occurred 409: User matin already Exists.
+2025-02-15 13:16:45,873 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:16:46,101 - token_create_user - ERROR - Exception occurred 'Database' object has no attribute 'commit'
+2025-02-15 13:18:18,996 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:18:18,997 - token_create_user - ERROR - Exception occurred 409: User matin already Exists.
+2025-02-15 13:18:23,284 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:18:23,285 - token_create_user - ERROR - Exception occurred 409: User matin already Exists.
+2025-02-15 13:22:10,378 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:22:10,380 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 13:22:10,380 - token_create_user - ERROR - Exception occurred 409: User <databases.backends.common.records.Record object at 0x00000235E0D07C50> already Exists.
+2025-02-15 13:22:12,548 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:22:12,548 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:22:12,549 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 13:22:12,549 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 13:22:12,550 - token_create_user - ERROR - Exception occurred 409: User <databases.backends.common.records.Record object at 0x00000235E0D07EF0> already Exists.
+2025-02-15 13:22:12,550 - token_create_user - ERROR - Exception occurred 409: User <databases.backends.common.records.Record object at 0x00000235E0D07EF0> already Exists.
+2025-02-15 13:23:41,860 - token_create_user - INFO - Token request: username='matin' password='matin123' isAdmin=True
+2025-02-15 13:23:41,861 - token_create_user - INFO - user matin with matin123 password created successfully
+2025-02-15 13:26:54,696 - token_create_user - INFO - Token request: username='zahra' password='zahra123' isAdmin=False
+2025-02-15 13:26:54,919 - token_create_user - INFO - user zahra with zahra123 password created successfully
+2025-02-15 13:27:58,816 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 13:27:58,816 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 13:27:59,050 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 13:27:59,050 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 13:58:57,928 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 13:58:57,929 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:07,375 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:07,375 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:07,376 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:07,376 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:30,999 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:30,999 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:30,999 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:31,001 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:31,001 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:31,001 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:52,499 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:52,499 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:52,499 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:52,499 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:00:52,501 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:52,501 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:52,501 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:00:52,501 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:01:07,664 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:01:07,664 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:01:07,664 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:01:07,664 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:01:07,664 - token_create_user - INFO - Token request: username='mahmoud' password='mahmoud123' isAdmin=False
+2025-02-15 14:01:07,666 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:01:07,666 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:01:07,666 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:01:07,666 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
+2025-02-15 14:01:07,666 - token_create_user - INFO - user mahmoud with mahmoud123 password created successfully
