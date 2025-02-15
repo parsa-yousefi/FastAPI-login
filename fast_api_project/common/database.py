@@ -12,7 +12,7 @@ class DatabaseConnectionManager:
 
     def mysql_connection(self):
         if self._database is None:
-            self._database = Database("mysql+pymysql://root:D@rkdawnte1376@localhost/fastapi")
+            self._database = Database("mysql+pymysql://user:password@localhost/database")
 
     async def db_start(self):
         if self._database:
